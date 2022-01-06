@@ -50,6 +50,7 @@ a:hover {
   align-items: center;
   width: 100%;
 }
+
 .logo {
   margin: 0 0 0 15px;
 }
@@ -64,6 +65,7 @@ a:hover {
   font-size: 1.2rem !important;
   background-color: var(--bgSecondary) !important;
   border: none !important;
+  height: 50px !important;
 }
 
 .loader {
