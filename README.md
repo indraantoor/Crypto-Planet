@@ -9,7 +9,7 @@
     <img src="https://i.ibb.co/4PZMHjZ/1.png" alt="1" border="0" />
 
   <p align="center">
-    Get all the information and latest news of 13000+ crypto’s at one place
+    Get all the information and latest news of 13000+ crypto’s at one place.
     <br />
     <a href="https://github.com/indraantoor/Crypto-Planet/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
@@ -98,7 +98,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/indraantoor/Pet-Adoption-ReactApp.git
+   git clone https://github.com/indraantoor/Crypto-Planet
    ```
 2. Install NPM packages
    ```sh
