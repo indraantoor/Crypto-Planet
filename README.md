@@ -74,6 +74,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - Node Js
 - Rapid API
 - Ant Design
+- Redux
 - Axios
 - Moment
 
