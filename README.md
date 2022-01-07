@@ -6,18 +6,19 @@
 <br />
 <div align="center">
   <h1 align="center">Crypto Planet</h1>
+    <img src="https://i.ibb.co/4PZMHjZ/1.png" alt="1" border="0" />
 
   <p align="center">
     Get all the information and latest news of 13000+ crypto’s at one place
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/indraantoor/Crypto-Planet/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://crypto-planet-app.herokuapp.com/">View Demo - Heroku</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/indraantoor/Crypto-Planet/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/indraantoor/Crypto-Planet/issues">Request Feature</a>
   </p>
 </div>
 
@@ -126,11 +127,33 @@ View the latest top trending news on the hompage and see more.
 
 <img src="https://i.ibb.co/dfYxWDF/4.png" alt="4" border="0" />
 
+### Search For A Specific Cryptocurrency
+
+Search for a specific cryptocurrency out of more than 13000+ approved cryptocurrencies in the market available currently.
+
+<img src="https://i.ibb.co/rtrSQrY/5.png" alt="5" border="0" />
+
+### Sort All The Latest NEWS
+
+Sort and view all the latest news of a specific cryptocurrency.
+
+<img src="https://i.ibb.co/ZmB7TCT/6.png" alt="6" border="0" />
+
+### View Details Of A Cryptocurrency
+
+View all of the details with important and critical statistics of a specific cryptocurrency.
+
+You can also see all of the important and useful links that are associated with that cryptocurrency such as the Github Repository of the cryptocurrency.
+
+<img src="https://i.ibb.co/fn1rff2/7.png" alt="7" border="0" />
+
+<img src="https://i.ibb.co/bzDY45G/8.png" alt="8" border="0" />
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Roadmap
 
-See the [open issues](https://github.com/indraantoor/Pet-Adoption-ReactApp/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/indraantoor/Crypto-Planet/issues) for a list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -150,6 +173,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Project Link: [https://github.com/indraantoor/Pet-Adoption-ReactApp](https://github.com/indraantoor/Pet-Adoption-ReactApp)
+Project Link: [https://github.com/indraantoor/Crypto-Planet](https://github.com/indraantoor/Crypto-Planet)
 
 <a href="https://in.linkedin.com/in/indraantoor"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" /></a>
