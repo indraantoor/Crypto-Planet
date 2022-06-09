@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <h1 align="center">Crypto Planet</h1>
-    <img src="https://i.ibb.co/4PZMHjZ/1.png" alt="1" border="0" />
+    <img src="https://i.ibb.co/1mnZXvf/68747470733a2f2f692e6962622e636f2f34505a4d486a5a2f312e706e67.png" alt="68747470733a2f2f692e6962622e636f2f34505a4d486a5a2f312e706e67" border="0" />
 
   <p align="center">
     Get all the information and latest news of 13000+ crypto’s at one place.
